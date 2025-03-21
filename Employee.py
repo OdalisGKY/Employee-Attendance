@@ -103,7 +103,7 @@ def gui_input():
             else:
                 break
 
-# Main function
+#  Main function
 def main():
     global employees
     employees = load_employee_data()  # Load employee data
