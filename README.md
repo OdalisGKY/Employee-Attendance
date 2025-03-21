@@ -13,12 +13,16 @@
 
 Future Enhancements:
 
-1. User can remove Employee that should no longer be in the system.
-2. Email sent to employee notifying days of absence when over 3 within the year.
-3. Supervisor notes added for absences/comment section needs to be added for each user
+1. User can remove employees that should no longer be in the system.
+2. User can update Employee name and missed days.
+3. Email sent to employee notifying days of absence when over 3 within the year.
+3. Supervisor notes added for absences (comment section needs to be added for each user)
 
 Conclusion:
  The purpose of this data is for supervisor to keep track of accessive missed days per year for employees.
  This is aimed for small business with no more than 50 employees.
  Emails (if available) are sent to keep the employee aware of their attendance.
+
+
+
 
